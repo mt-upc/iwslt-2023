@@ -1,2 +1,2 @@
-# iwslt-2023
-Systems submitted to IWSLT 2023 by the MT-UPC group.
+# UPC's Speech Translation System for IWSLT 2023
+Code will be available soon.
